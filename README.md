@@ -56,7 +56,7 @@ If you're wrestling with infrastructure, figuring out Kubernetes, or just want t
 - GitHub: you're already here
 - LinkedIn: [Mohammad00irfan](https://www.linkedin.com/in/m0hammedirfan/)
 - Blog: [your-blog-if-you-have-one]
-- Email: [your-email]
+- Email: mohammad00irfan@gmail.com
 
 ---
 
