@@ -27,6 +27,10 @@ I work across major clouds depending on what makes sense for the project:
 - **Google Cloud** - For those data-heavy or Kubernetes-first projects
 - **Oracle Cloud** - Getting my hands dirty here too
 
+## ⚡ Tech Stack & Tools
+
+![Tech Stack](./tech-stack.png)
+
 ## 📚 Currently Learning & Growing
 
 The DevOps world moves fast, and I'm trying to keep up. Right now I'm diving deeper into:
