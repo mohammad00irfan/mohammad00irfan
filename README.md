@@ -29,7 +29,7 @@ I work across major clouds depending on what makes sense for the project:
 
 ## ⚡ Tech Stack & Tools
 
-![Tech Stack](./tech-stack.png)
+![Tech Stack](./tech-stack.PNG)
 
 ## 📚 Currently Learning & Growing
 
