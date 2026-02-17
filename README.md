@@ -30,8 +30,6 @@ I work across major clouds depending on what makes sense for the project:
 
 ## ⚡ Certifications
 
-[![Certification](./certi.PNG)](https://www.credly.com/badges/8d5aaac1-b27a-4b88-97b5-f5b0c460c516/linked_in?t=sx1cm2)
-
 - 🏅 **Linux Certifation**  
   https://www.credly.com/badges/8d5aaac1-b27a-4b88-97b5-f5b0c460c516/linked_in?t=sx1cm2
 
