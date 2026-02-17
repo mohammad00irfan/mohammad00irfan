@@ -27,6 +27,17 @@ I work across major clouds depending on what makes sense for the project:
 - **Google Cloud** - For those data-heavy or Kubernetes-first projects
 - **Oracle Cloud** - Getting my hands dirty here too
 
+
+## ⚡ Certifications
+
+[![Certification](./certi.PNG)](https://www.credly.com/badges/8d5aaac1-b27a-4b88-97b5-f5b0c460c516/linked_in?t=sx1cm2)
+
+- 🏅 **Linux Certifation**  
+  https://www.credly.com/badges/8d5aaac1-b27a-4b88-97b5-f5b0c460c516/linked_in?t=sx1cm2
+
+- 🎓 **KodeKloud DevOps Certificate**  
+  https://engineer.kodekloud.com/certificate-verification/88ed110b-9c56-4454-a0a3-586de5e3467e
+
 ## ⚡ Tech Stack & Tools
 
 ![Tech Stack](./tech-stack.PNG)
