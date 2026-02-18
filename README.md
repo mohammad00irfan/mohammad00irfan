@@ -30,7 +30,7 @@ I work across major clouds depending on what makes sense for the project:
 
 ## ⚡ Certifications
 
-- 🏅 **Linux Certifation**  
+- 🏅 **Linux Certification**  
   https://www.credly.com/badges/8d5aaac1-b27a-4b88-97b5-f5b0c460c516/linked_in?t=sx1cm2
 
 - 🎓 **KodeKloud DevOps Certificate**  
