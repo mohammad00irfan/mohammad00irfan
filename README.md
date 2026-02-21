@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Irfan
 
-**DevOps & SRE Engineer | Cloud Architect | DevSecOps Practitioner**
+**DevOps Engineer | Cloud Engineer | DevSecOps Practitioner**
 
 I'm that person who gets excited about automating things that used to take hours. Been working with Linux long enough to know my way around the terminal blindfolded, and I genuinely believe good CI/CD pipelines make the world a better place.
 
